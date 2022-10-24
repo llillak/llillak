@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @llillak
+- 👀 I’m interested in ... programming, 2d graphics, 3d graphics and everything about computers.
+- 🌱 I’m currently learning ... SQL, JavaScript, Java, Python, C++ and much more. 
+- 📫 How to reach me ... anielamaciejek@wp.pl
+- 
