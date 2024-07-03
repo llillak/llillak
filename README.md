@@ -7,11 +7,6 @@
 ###
 
 <div align="center">
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="30" alt="maya logo"  />
@@ -70,5 +65,13 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/llillak/llillak/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/nelsonka_10">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nelsonka_10&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
