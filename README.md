@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! My name is Aniela and I'm a 3D artist from Poland</h2>
+<h2 align="center">Hi 👋! My name is Aniela and I'm a VFX artist from Poland</h2>
 
 ###
 
-<p align="left">🌱 I’m currently learning Maya and Zbrush<br><br>👨‍💻 All of my art projects are available at https://www.artstation.com/llillak<br><br>📝 You can find more about me on https://llillak.teleporthq.app<br><br>💬 Ask me about anything you want<br><br>📫 How to reach me anielamaciejek@wp.pl<br><br>📄 Know about my experiences https://www.linkedin.com/in/aniela-maciejek/</p>
+<p align="left">🌱 I’m currently learning Substance Designer<br><br>👨‍💻 All of my VFX projects are available at https://www.artstation.com/llillak<br><br>👨‍💻 All of my 3D art projects are available at https://sketchfab.com/llillak<br><br>📝 You can find more about me on https://linktr.ee/anielamaciejek<br><br>💬 Ask me about anything you want<br><br>📫 How to reach me anielamaciejek2004@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/aniela-maciejek/</p>
 
 ###
 
