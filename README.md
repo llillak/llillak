@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Substance Designer<br><br>👨‍💻 All of my VFX projects are available at https://www.artstation.com/llillak<br><br>👨‍💻 All of my 3D art projects are available at https://sketchfab.com/llillak<br><br>💬 Ask me about anything you want<br><br>📫 How to reach me anielamaciejek2004@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/aniela-maciejek/</p>
+<p align="left">🌱 I’m currently learning Substance Designer<br><br>💬 Ask me about anything you want<br><br>📫 How to reach me anielamaciejek2004@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/aniela-maciejek/</p>
 
 ###
 
